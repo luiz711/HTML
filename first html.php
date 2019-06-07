@@ -1,0 +1,39 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>Luis</h2>
+  <hr />
+  <br>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Drawing</li>
+    <li>Photography</li>
+    <li>Design</li>
+    <li>Programming</li>
+    <li>Computer Science</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Web Design with HTML & CSS</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+    </a>
+    <li>Codeacademy</li>
+  </ul>
+  <p class="head">Experience</p>
+  <ul>
+    <li>Reno Technology Academy</li>
+  </ul>
+  <p class="head">Extracurriculars</p>
+  <ul>
+    <li>Camping</li>
+    <li>Programming</li>
+    <li>Reading</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Luis</h2></div>
